@@ -1,10 +1,10 @@
 # Luau Scripts for Roblox Development
 
-This repository contains open source scripts in Luau, a scripting language used in Roblox development. The scripts are intended for public use and can be incorporated into your Roblox games and projects.
+This repository contains open source scripts in Luau, a scripting language used in Roblox development. The scripts are intended for public use and can be incorporated into your Roblox experiences and projects.
 
 ## Getting Started
 
-To use the scripts in your Roblox project, you can simply copy the code and paste it into your game's script editor. Alternatively, you can download the script files and import them into your game.
+To use the scripts in your Roblox project, you can simply copy the code and paste it into your experience's script editor. Alternatively, you can download the script files and import them into your experience.
 
 ## Contributing
 
